@@ -1,6 +1,6 @@
-# Scriptum-Luxis
-
 [![Project Image](Your_Image_URL_here)](Link_to_Your_Project)
+
+# Scriptum-Luxis
 
 A authentic collection of my most effective prompts for generative AI, Scriptum Luxis means "Written Work of Light(information)."
 
